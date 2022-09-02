@@ -20,3 +20,8 @@ random-forest:
   path: .mlem/model/rf
   type: model
   virtual: false
+test-model:
+  description: "Test model"
+  type: model
+  virtual: true
+
